@@ -1,0 +1,44 @@
+p {
+    text-indent: 5%;
+}
+
+
+h1 {
+     font-family: "Sriracha", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+p, h2, h6 {
+    font-family: "Prompt", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.text-blue {
+    color: #1C3D92;
+}
+
+.text-white {
+  color: #ffffff;
+}
+
+.gray-background {
+  background-color: #d3d3d3; /* เทาอ่อน */
+}
+
+.bg-blue {
+  background-color: #1C3D92;
+}
+
+.bg-white {
+  background-color: #ffffff;
+}
+
+.image-shadow {
+  box-shadow: 8px 8px 12px rgba(0, 0, 0, 0.8);
+}
+
+/*div {
+  border: 2px solid red;
+}
